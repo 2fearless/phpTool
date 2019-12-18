@@ -1,0 +1,16 @@
+{
+    "name": "2fearless/tool",
+    "description": "tool",
+    "authors": [
+        {
+            "name": "fearless1",
+            "email": "983527455@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "fearless\\Tools\\": "src/"
+        }
+    }
+}
